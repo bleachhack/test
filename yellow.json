@@ -1,0 +1,18 @@
+{
+	"targets": [
+		"main",
+		"swap"
+	],
+	"passes": [
+		{
+			"name": "__url__:https_58__47__47_raw.githubusercontent.com/bleachhack/test/program.json",
+			"intarget": "main",
+			"outtarget": "swap"
+		},
+		{
+			"name": "blit",
+			"intarget": "swap",
+			"outtarget": "main"
+		}
+	]
+}
