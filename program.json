@@ -5,7 +5,7 @@
         "dstrgb": "1-srcalpha"
     },
     "vertex": "sobel",
-    "fragment": "__url__:https_58__47__47_raw.githubusercontent.com/bleachhack/test/program.fsh",
+    "fragment": "__url__:https_58__47__47_raw.githubusercontent.com/bleachhack/test/main/program.fsh",
     "attributes": [ "Position" ],
     "samplers": [
         { "name": "DiffuseSampler" }
