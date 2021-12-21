@@ -5,7 +5,7 @@
 	],
 	"passes": [
 		{
-			"name": "__url__:https_58__47__47_raw.githubusercontent.com/bleachhack/test/program.json",
+			"name": "__url__:https_58__47__47_raw.githubusercontent.com/bleachhack/test/main/program.json",
 			"intarget": "main",
 			"outtarget": "swap"
 		},
