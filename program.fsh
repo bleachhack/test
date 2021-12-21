@@ -9,5 +9,5 @@ out vec4 fragColor;
 
 void main() {
     vec4 center = texture(DiffuseSampler, texCoord);
-    fragColor = vec4(0.9, 0.75, 0.27, center.a);
+    fragColor = vec4(0.9, 0.75, 0.27, center.a > 0.0 ? 1.0 : 0.0);
 }
